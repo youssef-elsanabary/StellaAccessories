@@ -1,0 +1,6 @@
+@StellaAccessories_HostAddress = http://localhost:5274
+
+GET {{StellaAccessories_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
